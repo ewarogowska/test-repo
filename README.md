@@ -1,5 +1,5 @@
 # test-repo
-hello 
+hello :)
 
 titanic
 
